@@ -16,7 +16,6 @@ namespace Twitter_Clone_ASP.NET.Models.DTO
         public string Message { get; set; }
         public int Likes { get; set; }
         public int Shares { get; set; }
-
         public int UserId { get; set; }
         public bool Edit { get; set; }
     }
